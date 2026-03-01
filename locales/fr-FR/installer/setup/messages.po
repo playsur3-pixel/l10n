@@ -1,0 +1,227 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \\n"
+"Report-Msgid-Bugs-To: \\n"
+"POT-Creation-Date: \\n"
+"PO-Revision-Date: 2026-03-01 17:33+0000\\n"
+"Last-Translator: \\n"
+"Language-Team: playSURE\\n"
+"Language: fr_FR\\n"
+"MIME-Version: 1.0\\n"
+"Content-Type: text/plain; charset=UTF-8\\n"
+"Content-Transfer-Encoding: 8bit\\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\\n"
+
+msgid "[WixBundleName] Setup"
+msgstr "Installation de [WixBundleName]"
+
+msgid "[WixBundleName]"
+msgstr "[WixBundleName]"
+
+msgid "Checking for updates"
+msgstr "Recherche de mises à jour"
+
+msgid "&Update to version [WixStdBAUpdateAvailable]"
+msgstr "&Mettre à jour vers la version [WixStdBAUpdateAvailable]"
+
+msgid "Welcome"
+msgstr "Bienvenue"
+
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue or Cancel to exit."
+msgstr "Le programme d’installation va installer [WixBundleName] sur votre ordinateur. Cliquez sur Installer pour continuer ou sur Annuler pour quitter."
+
+msgid "Setup will install [WixBundleName] on your computer. Click Install to continue, Options to set installation options, or Cancel to exit."
+msgstr "Le programme d’installation va installer [WixBundleName] sur votre ordinateur. Cliquez sur Installer pour continuer, sur Options pour définir les options d’installation, ou sur Annuler pour quitter."
+
+msgid "Version [WixBundleVersion]"
+msgstr "Version [WixBundleVersion]"
+
+msgid "Are you sure you want to cancel?"
+msgstr "Êtes-vous sûr de vouloir annuler ?"
+
+msgid "Previous version"
+msgstr "Version précédente"
+
+msgid "Setup Help"
+msgstr "Aide de l’installation"
+
+msgid "/install | /repair | /uninstall | /layout [directory] - installs, repairs, uninstalls or\\n   creates a complete local copy of the bundle in directory. Install is the default.\\n\\n/passive | /quiet -  displays minimal UI with no prompts or displays no UI and\\n   no prompts. By default UI and all prompts are displayed.\\n\\n/norestart   - suppress any attempts to restart. By default UI will prompt before restart.\\n/log log.txt - logs to a specific file. By default a log file is created in %TEMP%."
+msgstr "/install | /repair | /uninstall | /layout [répertoire] - installe, répare, désinstalle ou\\n   crée une copie locale complète du bundle dans le répertoire. Install est l’action par défaut.\\n\\n/passive | /quiet - affiche une interface minimale sans invites, ou n’affiche aucune interface\\n   ni invite. Par défaut, l’interface et toutes les invites sont affichées.\\n\\n/norestart - empêche toute tentative de redémarrage. Par défaut, l’interface demande avant de redémarrer.\\n/log log.txt - écrit les journaux dans un fichier spécifique. Par défaut, un fichier journal est créé dans %TEMP%."
+
+msgid "&Close"
+msgstr "&Fermer"
+
+msgid "[WixBundleName] <a href=\\\"#\\\">license terms</a>."
+msgstr "[WixBundleName] <a href=\\\"#\\\">conditions de licence</a>."
+
+msgid "I &agree to the license terms and conditions"
+msgstr "J’&accepte les conditions de licence"
+
+msgid "&Options"
+msgstr "&Options"
+
+msgid "&Install"
+msgstr "&Installer"
+
+msgid "&Cancel"
+msgstr "&Annuler"
+
+msgid "Setup Options"
+msgstr "Options d’installation"
+
+msgid "Install location:"
+msgstr "Emplacement d’installation :"
+
+msgid "&Browse"
+msgstr "&Parcourir"
+
+msgid "&OK"
+msgstr "&OK"
+
+msgid "&Cancel"
+msgstr "&Annuler"
+
+msgid "Setup Progress"
+msgstr "Progression de l’installation"
+
+msgid "Processing:"
+msgstr "Traitement :"
+
+msgid "Initializing..."
+msgstr "Initialisation…"
+
+msgid "&Cancel"
+msgstr "&Annuler"
+
+msgid "Modify Setup"
+msgstr "Modifier l’installation"
+
+msgid "&Repair"
+msgstr "&Réparer"
+
+msgid "&Uninstall"
+msgstr "&Désinstaller"
+
+msgid "&Cancel"
+msgstr "&Annuler"
+
+msgid "Setup Successful"
+msgstr "Installation réussie"
+
+msgid "Cache Successfully Completed"
+msgstr "Mise en cache terminée avec succès"
+
+msgid "Installation Successfully Completed"
+msgstr "Installation terminée avec succès"
+
+msgid "Layout Successfully Completed"
+msgstr "Création du layout terminée avec succès"
+
+msgid "Modify Successfully Completed"
+msgstr "Modification terminée avec succès"
+
+msgid "Repair Successfully Completed"
+msgstr "Réparation terminée avec succès"
+
+msgid "Uninstall Successfully Completed"
+msgstr "Désinstallation terminée avec succès"
+
+msgid "Uninstall Successfully Completed"
+msgstr "Désinstallation terminée avec succès"
+
+msgid "&Launch"
+msgstr "&Lancer"
+
+msgid "You must restart your computer before you can use the software."
+msgstr "Vous devez redémarrer votre ordinateur avant de pouvoir utiliser le logiciel."
+
+msgid "You must restart your computer to complete the removal of the software."
+msgstr "Vous devez redémarrer votre ordinateur pour terminer la suppression du logiciel."
+
+msgid "&Restart"
+msgstr "&Redémarrer"
+
+msgid "&Close"
+msgstr "&Fermer"
+
+msgid "Setup Failed"
+msgstr "Échec de l’installation"
+
+msgid "Cache Failed"
+msgstr "Échec de la mise en cache"
+
+msgid "Setup Failed"
+msgstr "Échec de l’installation"
+
+msgid "Layout Failed"
+msgstr "Échec de la création du layout"
+
+msgid "Modify Failed"
+msgstr "Échec de la modification"
+
+msgid "Repair Failed"
+msgstr "Échec de la réparation"
+
+msgid "Uninstall Failed"
+msgstr "Échec de la désinstallation"
+
+msgid "Uninstall Failed"
+msgstr "Échec de la désinstallation"
+
+msgid "One or more issues caused the setup to fail. Please fix the issues and then retry setup. For more information see the <a href=\\\"#\\\">log file</a>."
+msgstr "Un ou plusieurs problèmes ont entraîné l’échec de l’installation. Corrigez ces problèmes puis relancez l’installation. Pour plus d’informations, consultez le <a href=\\\"#\\\">fichier journal</a>."
+
+msgid "You must restart your computer to complete the rollback of the software."
+msgstr "Vous devez redémarrer votre ordinateur pour terminer l’annulation (rollback) du logiciel."
+
+msgid "&Restart"
+msgstr "&Redémarrer"
+
+msgid "&Close"
+msgstr "&Fermer"
+
+msgid "Files In Use"
+msgstr "Fichiers en cours d’utilisation"
+
+msgid "The following applications are using files that need to be updated:"
+msgstr "Les applications suivantes utilisent des fichiers qui doivent être mis à jour :"
+
+msgid "Close the &applications."
+msgstr "Fermer les &applications."
+
+msgid "Close the &applications and attempt to restart them."
+msgstr "Fermer les &applications et tenter de les redémarrer."
+
+msgid "&Do not close applications. A reboot will be required."
+msgstr "&Ne pas fermer les applications. Un redémarrage sera nécessaire."
+
+msgid "&Retry"
+msgstr "&Réessayer"
+
+msgid "&Ignore"
+msgstr "&Ignorer"
+
+msgid "E&xit"
+msgstr "&Quitter"
+
+msgid "No action was taken as a system reboot is required."
+msgstr "Aucune action n’a été effectuée car un redémarrage du système est requis."
+
+msgid "Disclaimer"
+msgstr "Avertissement"
+
+msgid "This software is for your enjoyment and you are using it at your own risk."
+msgstr "Ce logiciel est destiné à votre usage personnel et vous l’utilisez à vos propres risques."
+
+msgid "FFMPEG"
+msgstr "FFMPEG"
+
+msgid "FFMPEG can be used for encoding mirv_streams to videos."
+msgstr "FFMPEG peut être utilisé pour encoder mirv_streams en vidéos."
+
+msgid "To modify the existing HLAE installation, please use the \\\"HLAE\\\" entry in the installed applications list instead."
+msgstr "Pour modifier l’installation HLAE existante, utilisez plutôt l’entrée \\\"HLAE\\\" dans la liste des applications installées."
+
+msgid "Check to remove HLAE %APPDATA% folder upon uinstall (not recommended)."
+msgstr "Cocher pour supprimer le dossier HLAE %APPDATA% lors de la désinstallation (non recommandé)."
