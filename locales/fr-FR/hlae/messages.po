@@ -3,26 +3,26 @@
 # This file is distributed under the same license as the hlae package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-## French Translation for HLAE from playSURE
-
- 
+# # French Translation for HLAE from playSURE
 msgid ""
 msgstr ""
 "Project-Id-Version: hlae\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-01 06:02+0400\n"
-"PO-Revision-Date: 2026-03-01 12:00+0100\n"
+"PO-Revision-Date: 2026-03-04 18:58+0100\n"
 "Last-Translator: r. paySURE LG <>\n"
 "Language-Team: playSURE <LL@li.org>\n"
-"Language: Français \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.8\n"
 
 #: AfxError.cs:11
 msgid "AfxError"
 msgstr "Erreur Afx"
+
 #: AfxError.cs:40
 #, csharp-format
 msgctxt "AfxError (number code)"
@@ -216,7 +216,7 @@ msgstr "Erreur HLAE"
 #: ErrorDialogue.cs:22
 msgctxt "Error dialog"
 msgid "Code:"
-msgstr "Code"
+msgstr "Code :"
 
 #: ErrorDialogue.cs:23
 msgctxt "Error dialog"
@@ -226,12 +226,12 @@ msgstr "n/a"
 #: ErrorDialogue.cs:24
 msgctxt "Error dialog"
 msgid "Description:"
-msgstr "Description"
+msgstr "Description :"
 
 #: ErrorDialogue.cs:25
 msgctxt "Error dialog"
 msgid "Solution:"
-msgstr "Solution"
+msgstr "Type de solution :"
 
 #: ErrorDialogue.cs:26
 msgctxt "Error dialog"
@@ -246,7 +246,7 @@ msgstr "Okay"
 #: ErrorDialogue.cs:29
 msgctxt "Error dialog"
 msgid "Unknown error."
-msgstr "Erreur inconnue"
+msgstr "Erreur inconnue."
 
 #: ErrorDialogue.cs:30
 msgctxt "Error dialog"
@@ -256,7 +256,7 @@ msgstr "Pas de description disponible."
 #: ErrorDialogue.cs:31
 msgctxt "Error dialog"
 msgid "No solution available."
-msgstr "Aucune solution disponible"
+msgstr "Aucune solution disponible."
 
 #: HlaeErrors.cs:48
 msgctxt "HLAE errors"
@@ -265,22 +265,18 @@ msgstr "Erreur AfxHook"
 
 #: HlaeErrors.cs:49
 msgctxt "HLAE errors"
-msgid ""
-"Make sure you run the injector and the program to inject with same access "
-"rights and that no antivirus or anti-cheat is blocking its calls."
+msgid "Make sure you run the injector and the program to inject with same access rights and that no antivirus or anti-cheat is blocking its calls."
 msgstr "Vérifiez que l’injecteur et le programme cible sont lancés avec les mêmes droits (ex. administrateur) et qu’aucun antivirus/anti-cheat ne bloque les appels."
 
 #: HlaeErrors.cs:50
 msgctxt "HLAE errors"
-msgid ""
-"Make sure to exit anti-cheat software such as the ESEA client, Faceit client "
-"or Challengeme.gg before using HLAE."
+msgid "Make sure to exit anti-cheat software such as the ESEA client, Faceit client or Challengeme.gg before using HLAE."
 msgstr "Assuerez vous d'avoir quitter les logiciels anticheat comme ESEA, Faceit ou Challengeme.gg avant d'utiliser HLAE."
 
 #: HlaeErrors.cs:65
 msgctxt "HLAE errors"
 msgid "Could not access / enter directory of DLL to inject"
-msgstr " Impossible d'accéder / entrer dans le dossier du DLL à injecter"
+msgstr "Impossible d'accéder / entrer dans le dossier du DLL à injecter"
 
 #: HlaeErrors.cs:66
 msgctxt "HLAE errors"
@@ -339,10 +335,7 @@ msgstr "Erreur AfxHook : code d’erreur inconnu."
 
 #: HlaeErrors.cs:106
 msgctxt "HLAE errors"
-msgid ""
-"Make sure you entered the correct path to the game .exe and included the ."
-"exe file. Copy the path from the game properties in Steam to make sure you "
-"are using the correct path."
+msgid "Make sure you entered the correct path to the game .exe and included the .exe file. Copy the path from the game properties in Steam to make sure you are using the correct path."
 msgstr "Assurez-vous d’avoir indiqué le bon chemin vers le .exe du jeu et d’avoir bien inclus le fichier .exe. Copiez le chemin depuis les propriétés du jeu dans Steam pour être sûr d’utiliser le bon chemin."
 
 #: HlaeErrors.cs:111
@@ -358,9 +351,7 @@ msgstr "Impossible de démarrer l’injecteur : {0}"
 
 #: HlaeErrors.cs:111
 msgctxt "HLAE errors"
-msgid ""
-"injector.exe blocked. Probably caused by antivirus. Check it and re-extract "
-"HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
+msgid "injector.exe blocked. Probably caused by antivirus. Check it and re-extract HLAE (HLAE NEEDS to be extracted, don't run it from a .zip file)."
 msgstr "injector.exe est bloqué. Probablement à cause de l’antivirus. Vérifiez-le et ré-extrayez HLAE (HLAE DOIT être extrait, ne l’exécutez pas depuis un fichier .zip)."
 
 #: HlaeErrors.cs:118
@@ -370,15 +361,12 @@ msgstr "Le chargeur a échoué."
 
 #: HlaeErrors.cs:131
 msgctxt "HLAE errors"
-msgid ""
-"Make sure to close any anti-cheat software and that the path to the game ."
-"exe is correct."
+msgid "Make sure to close any anti-cheat software and that the path to the game .exe is correct."
 msgstr "Assurez-vous de fermer tout logiciel anti-cheat et que le chemin vers le .exe du jeu est correct."
 
 #: HlaeErrors.cs:140
 msgctxt "HLAE errors"
-msgid ""
-"Make sure neither HLAE.exe, Steam.exe nor csgo.exe are set to run as admin."
+msgid "Make sure neither HLAE.exe, Steam.exe nor csgo.exe are set to run as admin."
 msgstr "Assurez-vous que ni HLAE.exe, ni Steam.exe, ni csgo.exe ne sont configurés pour s’exécuter en tant qu’administrateur."
 
 #: HlaeErrors.cs:144
@@ -409,7 +397,7 @@ msgstr "Jeu"
 #: LaunchCsgoForm.cs:22
 msgctxt "Launch CS:GO dialog"
 msgid "csgo.exe file:"
-msgstr "Fichier csgo.exe :"
+msgstr "fichier csgo.exe :"
 
 #: LaunchCsgoForm.cs:23 LaunchCsgoForm.cs:27
 msgctxt "Launch CS:GO dialog"
@@ -485,13 +473,11 @@ msgstr "A&nnuler"
 #: LaunchCsgoForm.cs:133
 msgctxt "Launch CS:GO dialog | MmcfgFolder Description"
 msgid ""
-"When enabled you can set a parent folder for your movie making config for "
-"the game.\n"
+"When enabled you can set a parent folder for your movie making config for the game.\n"
 "The game will create a sub-folder called cfg there and store config.cfg\n"
 "and video settings in that folder.\n"
 "Also you can put your movie making config into that cfg sub-folder,\n"
-"however the game will load those only if they are not present in the csgo/"
-"cfg folder already."
+"however the game will load those only if they are not present in the csgo/cfg folder already."
 msgstr ""
 "Lorsque cette option est activée, vous pouvez définir un dossier parent pour votre configuration de création vidéo.\n"
 "Le jeu y créera un sous-dossier nommé cfg et y stockera config.cfg\n"
@@ -517,7 +503,7 @@ msgstr "Jeu"
 #: LaunchCs2Form.cs:22
 msgctxt "Launch CS2 dialog"
 msgid "cs2.exe file:"
-msgstr "Fichier cs2.exe :"
+msgstr "fichier cs2.exe :"
 
 #: LaunchCs2Form.cs:23 LaunchCs2Form.cs:27
 msgctxt "Launch CS2 dialog"
@@ -593,10 +579,8 @@ msgstr "A&nnuler"
 #: LaunchCs2Form.cs:108
 msgctxt "Launch CS2 dialog | MmcfgFolder Description"
 msgid ""
-"When enabled you can set a parent folder for your moviemaking config for the "
-"game.\n"
-"The game will create a sub-folder called cfg there and store configuration/"
-"video settings in that folder.\n"
+"When enabled you can set a parent folder for your moviemaking config for the game.\n"
+"The game will create a sub-folder called cfg there and store configuration/video settings in that folder.\n"
 "Also you can put your moviemaking config into that cfg sub-folder."
 msgstr ""
 "Lorsque cette option est activée, vous pouvez définir un dossier parent pour votre configuration de création vidéo.\n"
@@ -786,7 +770,7 @@ msgstr ""
 
 #: Loader.cs:138
 msgid "injector Warning"
-msgstr "Avertissement de l’injecteur"
+msgstr "avertissement de l’injecteur"
 
 #: Loader.cs:311
 msgid "Can not get Kernel32.dll handle."
@@ -1001,10 +985,7 @@ msgid "HLAE path:"
 msgstr "Chemin HLAE :"
 
 #: MainForm.cs:133
-msgid ""
-"Warning: Your HLAE path shown above contains non-basic latin characters "
-"(meaning characters outside the 7-bit ASCII range), which will lead to "
-"multiple problems in-game if not fixed!"
+msgid "Warning: Your HLAE path shown above contains non-basic latin characters (meaning characters outside the 7-bit ASCII range), which will lead to multiple problems in-game if not fixed!"
 msgstr "Avertissement : le chemin HLAE affiché ci-dessus contient des caractères non latins “basiques” (c.-à-d. en dehors de la plage ASCII 7 bits), ce qui causera plusieurs problèmes en jeu si ce n’est pas corrigé !"
 
 #: MainForm.cs:138
@@ -1012,10 +993,7 @@ msgid "VAC warning"
 msgstr "Avertissement VAC"
 
 #: MainForm.cs:139
-msgid ""
-"The HLAE tool is technically a hack, therefore you should only use it for "
-"making gaming videos or watching demos. Joining VAC protected servers with "
-"HLAE will probably get you VAC banned."
+msgid "The HLAE tool is technically a hack, therefore you should only use it for making gaming videos or watching demos. Joining VAC protected servers with HLAE will probably get you VAC banned."
 msgstr "L’outil HLAE est techniquement un hack ; vous ne devriez donc l’utiliser que pour réaliser des vidéos ou regarder des démos. Rejoindre des serveurs protégés VAC avec HLAE vous exposera probablement à un ban VAC."
 
 #: MainForm.cs:140 MainForm.cs:147
@@ -1176,4 +1154,4 @@ msgstr "Programme à lancer et à hooker (.exe)|*.exe"
 #: Tools/CustomLoaderForm.cs:80
 msgctxt "Custom Loader dialog | DLL filter"
 msgid "Hook DLL (.dll)|*.dll"
-msgstr "DLL de hook (.dll)|*.dll"
+msgstr "Hook DLL (.dll)|*.dll"
