@@ -14,8 +14,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Poedit 3.8\n"
 
+msgctxt "msierrDependencyMissingDependencies"
 msgid "If you continue with this install, the product may not work properly because [2] or more dependencies are missing. Do you want to continue with this install anyway?"
 msgstr "Si vous poursuivez cette installation, le produit risque de ne pas fonctionner correctement car [2] dépendances ou plus sont manquantes. Voulez-vous quand même continuer l’installation ?"
 
+msgctxt "msierrDependencyHasDependents"
 msgid "If you continue with this uninstall, [2] or more products may stop working properly. Do you want to continue with this uninstall anyway?"
 msgstr "Si vous poursuivez cette désinstallation, [2] produits ou plus risquent de ne plus fonctionner correctement. Voulez-vous quand même continuer la désinstallation ?"
